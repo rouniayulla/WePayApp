@@ -1,6 +1,5 @@
 ## wepay application flutter
-
-A new Flutter project.
+The application for payment solutions in Syria, with the addition of a QRcode scanner and a Map.
 
 ## Getting Started
 
